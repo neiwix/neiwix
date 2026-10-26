@@ -11,7 +11,7 @@
 
 ### ▍ about
 
-```java
+```text
 public class Neiwix {
     String[] does    = { "minecraft mods", "mobile games", "telegram bots" };
     String[] speaks  = { "Java", "GDScript", "Python" };
