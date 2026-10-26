@@ -39,17 +39,13 @@
 
 ### ▍ projects
 
-<p align="center">
-  <a href="https://github.com/neiwix/SurvivalCinema">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=neiwix&repo=SurvivalCinema&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=C9D1D9" />
-  </a>
-</p>
-
-```text
-survival-cinema   minecraft mod: survival → film   public
-████████████      android roguelite on godot       soon
-████████████      telegram party game bot          soon
-```
+<table align="center">
+  <tr>
+    <td align="center" width="200"><a href="https://github.com/neiwix/SurvivalCinema"><b>survival cinema</b></a><br/><sub>your survival, edited into a film</sub><br/><sub><code>public</code></sub></td>
+    <td align="center" width="200"><b>████████</b><br/><sub>roguelite for android</sub><br/><sub><code>soon</code></sub></td>
+    <td align="center" width="200"><b>████████</b><br/><sub>telegram party game</sub><br/><sub><code>soon</code></sub></td>
+  </tr>
+</table>
 
 ### ▍ stats
 
