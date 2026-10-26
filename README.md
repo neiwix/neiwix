@@ -11,13 +11,15 @@
 
 ### ▍ about
 
-```text
-public class Neiwix {
-    String[] does    = { "minecraft mods", "mobile games", "telegram bots" };
-    String[] speaks  = { "Java", "GDScript", "Python" };
-    String   mode    = "dark";
-}
-```
+<p align="center"><i>i make small things people actually play with.</i></p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="200"><b>minecraft mods</b><br/><sub>java · fabric</sub></td>
+    <td align="center" width="200"><b>mobile games</b><br/><sub>godot · android</sub></td>
+    <td align="center" width="200"><b>telegram bots</b><br/><sub>python · aiogram</sub></td>
+  </tr>
+</table>
 
 ### ▍ stack
 
