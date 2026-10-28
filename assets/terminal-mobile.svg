@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="346" viewBox="0 0 440 346" role="img" aria-labelledby="title desc">
+  <title id="title">neiwix — terminal</title>
+  <desc id="desc">Minecraft mods, games and Telegram bots. Java, Python, Godot. Project: SurvivalCinema.</desc>
+  <style>
+    text { font-family:'Cascadia Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace; font-size:16px; fill:#d4d4d8; white-space:pre; }
+    .prompt { fill:#8b949e; }
+    .command { fill:#a7c9a1; }
+    .type { animation:type .65s steps(14,end) both; }
+    .answer { animation:appear .15s ease-out both; }
+    .cursor { animation:blink 1.2s step-end infinite; }
+    @keyframes type { from { clip-path:inset(-30px 100% -8px 0); } to { clip-path:inset(-30px 0 -8px 0); } }
+    @keyframes appear { from { opacity:0; } to { opacity:1; } }
+    @keyframes blink { 0%,49% { opacity:1; } 50%,100% { opacity:0; } }
+    @media (prefers-reduced-motion:reduce) { .type,.answer,.cursor { animation:none; } }
+  </style>
+  <rect x=".5" y=".5" width="439" height="345" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <path d="M1 51.5H439" stroke="#21262d"/>
+  <g fill="#484f58"><circle cx="24" cy="26" r="4"/><circle cx="40" cy="26" r="4"/><circle cx="56" cy="26" r="4"/></g>
+  <text x="220" y="31" text-anchor="middle" style="font-size:13px;fill:#8b949e">neiwix — ~</text>
+  <text x="24" y="82" class="prompt answer" style="animation-delay:0.1s">neiwix@github:~$</text>
+  <g transform="translate(187.2 82)"><text class="command type" style="animation-delay:0.1s;animation-timing-function:steps(14,end)">cat profile.md</text></g>
+  <text x="24" y="112" class="answer" style="animation-delay:.85s">minecraft mods / games / telegram bots</text>
+  <text x="24" y="160" class="prompt answer" style="animation-delay:1.05s">neiwix@github:~$</text>
+  <g transform="translate(187.2 160)"><text class="command type" style="animation-delay:1.05s;animation-timing-function:steps(13,end)">cat stack.txt</text></g>
+  <text x="24" y="190" class="answer" style="animation-delay:1.8s">Java · Python · Godot</text>
+  <text x="24" y="238" class="prompt answer" style="animation-delay:2s">neiwix@github:~$</text>
+  <g transform="translate(187.2 238)"><text class="command type" style="animation-delay:2s;animation-timing-function:steps(12,end)">ls projects/</text></g>
+  <text x="24" y="268" class="answer" style="animation-delay:2.75s;fill:#a7c9a1">SurvivalCinema/ ↗</text>
+  <g class="answer" style="animation-delay:3s"><text x="24" y="316" class="prompt">neiwix@github:~$</text><rect x="187.2" y="303" width="9.6" height="18" fill="#a7c9a1" class="cursor"/></g>
+</svg>
