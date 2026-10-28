@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="504" viewBox="0 0 720 504" role="img" aria-labelledby="title desc">
   <title id="title">neiwix — terminal</title>
-  <desc id="desc">Minecraft mods, games and Telegram bots. Java, Python, Godot. Tools: Codex and Claude Code. Project: SurvivalCinema.</desc>
+  <desc id="desc">Minecraft mods, games and Telegram bots. java, python, godot. Tools: claude code and codex. Project: SurvivalCinema.</desc>
   <style>
     text { font-family:'Cascadia Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace; font-size:20px; fill:#a0a7b4; white-space:pre; }
     .prompt { fill:#6e788a; }
@@ -22,10 +22,10 @@
   <text x="32" y="134" class="answer" style="animation-delay:.85s">minecraft mods / games / telegram bots</text>
   <text x="32" y="194" class="prompt answer" style="animation-delay:1.05s">neiwix@github:~$</text>
   <g transform="translate(236 194)"><text class="command type" style="animation-delay:1.05s;animation-timing-function:steps(13,end)">cat stack.txt</text></g>
-  <text x="32" y="228" class="answer" style="animation-delay:1.8s">Java · Python · Godot</text>
+  <text x="32" y="228" class="answer" style="animation-delay:1.8s">java · python · godot</text>
   <text x="32" y="288" class="prompt answer" style="animation-delay:2s">neiwix@github:~$</text>
   <g transform="translate(236 288)"><text class="command type" style="animation-delay:2s;animation-timing-function:steps(13,end)">cat tools.txt</text></g>
-  <text x="32" y="322" class="answer" style="animation-delay:2.75s">Codex · Claude Code</text>
+  <text x="32" y="322" class="answer" style="animation-delay:2.75s">claude code · codex</text>
   <text x="32" y="382" class="prompt answer" style="animation-delay:2.95s">neiwix@github:~$</text>
   <g transform="translate(236 382)"><text class="command type" style="animation-delay:2.95s;animation-timing-function:steps(12,end)">ls projects/</text></g>
   <text x="32" y="416" class="answer" style="animation-delay:3.7s;fill:#7a88a0">SurvivalCinema/ ↗</text>
