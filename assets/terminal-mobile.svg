@@ -4,7 +4,7 @@
   <style>
     text { font-family:'Cascadia Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace; font-size:16px; fill:#d4d4d8; white-space:pre; }
     .prompt { fill:#8b949e; }
-    .command { fill:#a7c9a1; }
+    .command { fill:#b8c2d4; }
     .type { animation:type .65s steps(14,end) both; }
     .answer { animation:appear .15s ease-out both; }
     .cursor { animation:blink 1.2s step-end infinite; }
@@ -25,6 +25,6 @@
   <text x="24" y="190" class="answer" style="animation-delay:1.8s">Java · Python · Godot</text>
   <text x="24" y="238" class="prompt answer" style="animation-delay:2s">neiwix@github:~$</text>
   <g transform="translate(187.2 238)"><text class="command type" style="animation-delay:2s;animation-timing-function:steps(12,end)">ls projects/</text></g>
-  <text x="24" y="268" class="answer" style="animation-delay:2.75s;fill:#a7c9a1">SurvivalCinema/ ↗</text>
-  <g class="answer" style="animation-delay:3s"><text x="24" y="316" class="prompt">neiwix@github:~$</text><rect x="187.2" y="303" width="9.6" height="18" fill="#a7c9a1" class="cursor"/></g>
+  <text x="24" y="268" class="answer" style="animation-delay:2.75s;fill:#b8c2d4">SurvivalCinema/ ↗</text>
+  <g class="answer" style="animation-delay:3s"><text x="24" y="316" class="prompt">neiwix@github:~$</text><rect x="187.2" y="303" width="9.6" height="18" fill="#b8c2d4" class="cursor"/></g>
 </svg>
