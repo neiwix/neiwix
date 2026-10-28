@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="410" viewBox="0 0 720 410" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="504" viewBox="0 0 720 504" role="img" aria-labelledby="title desc">
   <title id="title">neiwix — terminal</title>
-  <desc id="desc">Minecraft mods, games and Telegram bots. Java, Python, Godot. Project: SurvivalCinema.</desc>
+  <desc id="desc">Minecraft mods, games and Telegram bots. Java, Python, Godot. Tools: Codex and Claude Code. Project: SurvivalCinema.</desc>
   <style>
     text { font-family:'Cascadia Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace; font-size:20px; fill:#a0a7b4; white-space:pre; }
     .prompt { fill:#6e788a; }
@@ -13,7 +13,7 @@
     @keyframes blink { 0%,49% { opacity:1; } 50%,100% { opacity:0; } }
     @media (prefers-reduced-motion:reduce) { .type,.answer,.cursor { animation:none; } }
   </style>
-  <rect x=".5" y=".5" width="719" height="409" rx="12" fill="#090d14" stroke="#242d3c"/>
+  <rect x=".5" y=".5" width="719" height="503" rx="12" fill="#090d14" stroke="#242d3c"/>
   <path d="M1 51.5H719" stroke="#1a2230"/>
   <g fill="#354052"><circle cx="32" cy="26" r="4"/><circle cx="48" cy="26" r="4"/><circle cx="64" cy="26" r="4"/></g>
   <text x="360" y="31" text-anchor="middle" style="font-size:13px;fill:#6e788a">neiwix — ~</text>
@@ -24,7 +24,10 @@
   <g transform="translate(236 194)"><text class="command type" style="animation-delay:1.05s;animation-timing-function:steps(13,end)">cat stack.txt</text></g>
   <text x="32" y="228" class="answer" style="animation-delay:1.8s">Java · Python · Godot</text>
   <text x="32" y="288" class="prompt answer" style="animation-delay:2s">neiwix@github:~$</text>
-  <g transform="translate(236 288)"><text class="command type" style="animation-delay:2s;animation-timing-function:steps(12,end)">ls projects/</text></g>
-  <text x="32" y="322" class="answer" style="animation-delay:2.75s;fill:#7a88a0">SurvivalCinema/ ↗</text>
-  <g class="answer" style="animation-delay:3s"><text x="32" y="374" class="prompt">neiwix@github:~$</text><rect x="236" y="357" width="12" height="22" fill="#7a88a0" class="cursor"/></g>
+  <g transform="translate(236 288)"><text class="command type" style="animation-delay:2s;animation-timing-function:steps(13,end)">cat tools.txt</text></g>
+  <text x="32" y="322" class="answer" style="animation-delay:2.75s">Codex · Claude Code</text>
+  <text x="32" y="382" class="prompt answer" style="animation-delay:2.95s">neiwix@github:~$</text>
+  <g transform="translate(236 382)"><text class="command type" style="animation-delay:2.95s;animation-timing-function:steps(12,end)">ls projects/</text></g>
+  <text x="32" y="416" class="answer" style="animation-delay:3.7s;fill:#7a88a0">SurvivalCinema/ ↗</text>
+  <g class="answer" style="animation-delay:3.95s"><text x="32" y="468" class="prompt">neiwix@github:~$</text><rect x="236" y="451" width="12" height="22" fill="#7a88a0" class="cursor"/></g>
 </svg>
